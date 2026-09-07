@@ -5,7 +5,7 @@ about:
   head: fca8c6b
   archived: false
   latestVersion: "1.0.0-early-access"
-  collectedAt: 2026-09-07T04:57:19Z
+  collectedAt: 2026-09-07T19:36:05Z
 timeline:
   created: 2021-07-11
   lastCommit: 2025-06-26
@@ -81,7 +81,7 @@ total:
   commit: 425
 ---
 path: /home/runner/.x-repo/github.com/kcctl/kcctl
-collectedAt: 2026-09-07T04:57:19Z
+collectedAt: 2026-09-07T19:36:06Z
 loc:
   Java:
     code: 5015
@@ -142,7 +142,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:57:20+00:00
+  collectedAt: 2026-09-07T19:36:06+00:00
   platform:
     darwin/arm64:
       name:  kcctl-1.0.0.CR4-osx-aarch_64.zip
