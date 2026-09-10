@@ -22,7 +22,18 @@ x install kcctl
 - **Latest**: `1.0.0-early-access` (2024-11-09)
 - **Last commit**: 2025-06-26
 - **Assets in release**: 7
-- **Published**: 2024-11-09T22:34:45Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums_sha256.txt](https://github.com/kcctl/kcctl/releases/download/v1.0.0.CR4/checksums_sha256.txt) | 600 B | `other` |
+| [kcctl-1.0.0.CR4-linux-x86_64.tar.gz](https://github.com/kcctl/kcctl/releases/download/v1.0.0.CR4/kcctl-1.0.0.CR4-linux-x86_64.tar.gz) | 17.9 MiB | `native/linux/x64` |
+| [kcctl-1.0.0.CR4-linux-x86_64.zip](https://github.com/kcctl/kcctl/releases/download/v1.0.0.CR4/kcctl-1.0.0.CR4-linux-x86_64.zip) | 17.9 MiB | `native/linux/x64` |
+| [kcctl-1.0.0.CR4-osx-aarch_64.tar.gz](https://github.com/kcctl/kcctl/releases/download/v1.0.0.CR4/kcctl-1.0.0.CR4-osx-aarch_64.tar.gz) | 17.7 MiB | `native/darwin/x64` |
+| [kcctl-1.0.0.CR4-osx-aarch_64.zip](https://github.com/kcctl/kcctl/releases/download/v1.0.0.CR4/kcctl-1.0.0.CR4-osx-aarch_64.zip) | 17.7 MiB | `native/darwin/x64` |
+| [kcctl-1.0.0.CR4-osx-x86_64.zip](https://github.com/kcctl/kcctl/releases/download/v1.0.0.CR4/kcctl-1.0.0.CR4-osx-x86_64.zip) | 17.8 MiB | `native/darwin/x64` |
+| [kcctl-1.0.0.CR4-windows-x86_64.zip](https://github.com/kcctl/kcctl/releases/download/v1.0.0.CR4/kcctl-1.0.0.CR4-windows-x86_64.zip) | 17.8 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -57,8 +68,8 @@ Total: **7,387** lines of code across **122** files in the top 5 languages.
 Install metadata for kcctl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kcctl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/kcctl.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/kcctl.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:57:18Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:50:09Z._

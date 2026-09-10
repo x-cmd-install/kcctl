@@ -4,7 +4,7 @@
 
 A modern and intuitive command line client for Kafka Connect
 
-![kcctl](https://repo.x-cmd.io/kcctl.svg)
+![kcctl](https://repo.x-cmd.io/kcctl.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,18 @@ x install kcctl
 - **最新版本**: `1.0.0-early-access` (2024-11-09)
 - **最近提交**: 2025-06-26
 - **Release 含资产**: 7 个
-- **发布时间**: 2024-11-09T22:34:45Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums_sha256.txt](https://github.com/kcctl/kcctl/releases/download/v1.0.0.CR4/checksums_sha256.txt) | 600 B | `other` |
+| [kcctl-1.0.0.CR4-linux-x86_64.tar.gz](https://github.com/kcctl/kcctl/releases/download/v1.0.0.CR4/kcctl-1.0.0.CR4-linux-x86_64.tar.gz) | 17.9 MiB | `native/linux/x64` |
+| [kcctl-1.0.0.CR4-linux-x86_64.zip](https://github.com/kcctl/kcctl/releases/download/v1.0.0.CR4/kcctl-1.0.0.CR4-linux-x86_64.zip) | 17.9 MiB | `native/linux/x64` |
+| [kcctl-1.0.0.CR4-osx-aarch_64.tar.gz](https://github.com/kcctl/kcctl/releases/download/v1.0.0.CR4/kcctl-1.0.0.CR4-osx-aarch_64.tar.gz) | 17.7 MiB | `native/darwin/x64` |
+| [kcctl-1.0.0.CR4-osx-aarch_64.zip](https://github.com/kcctl/kcctl/releases/download/v1.0.0.CR4/kcctl-1.0.0.CR4-osx-aarch_64.zip) | 17.7 MiB | `native/darwin/x64` |
+| [kcctl-1.0.0.CR4-osx-x86_64.zip](https://github.com/kcctl/kcctl/releases/download/v1.0.0.CR4/kcctl-1.0.0.CR4-osx-x86_64.zip) | 17.8 MiB | `native/darwin/x64` |
+| [kcctl-1.0.0.CR4-windows-x86_64.zip](https://github.com/kcctl/kcctl/releases/download/v1.0.0.CR4/kcctl-1.0.0.CR4-windows-x86_64.zip) | 17.8 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -61,4 +72,4 @@ kcctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:57:18Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:50:11Z._
