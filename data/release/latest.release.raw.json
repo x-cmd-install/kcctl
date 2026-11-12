@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 18118071,
       "digest": "sha256:70441b26c60d9a5e99278cbee895dcd2bf2193dd7c120033ad155fd49beb8e9b",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-22T10:52:13Z",
       "updated_at": "2026-10-22T10:52:13Z",
       "browser_download_url": "https://github.com/kcctl/kcctl/releases/download/v1.0.0.CR5/kcctl-1.0.0.CR5-linux-aarch_64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 18570929,
       "digest": "sha256:c82b8ea3a5ea2385100fe15409a4580377fab799234a6495008fa1edb8fb164c",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-10-22T10:52:14Z",
       "updated_at": "2026-10-22T10:52:15Z",
       "browser_download_url": "https://github.com/kcctl/kcctl/releases/download/v1.0.0.CR5/kcctl-1.0.0.CR5-linux-x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 18574003,
       "digest": "sha256:b355ca874a4cea028a9389381abeb77eecb889c8b0bedf833eb1d3f5bba2d561",
-      "download_count": 491,
+      "download_count": 516,
       "created_at": "2026-10-22T10:52:15Z",
       "updated_at": "2026-10-22T10:52:17Z",
       "browser_download_url": "https://github.com/kcctl/kcctl/releases/download/v1.0.0.CR5/kcctl-1.0.0.CR5-linux-x86_64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 18553323,
       "digest": "sha256:baf8bf5b005c19bc350be1e916ae20c42e45b8007d50cd71315463bb69f7755d",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-22T10:52:17Z",
       "updated_at": "2026-10-22T10:52:18Z",
       "browser_download_url": "https://github.com/kcctl/kcctl/releases/download/v1.0.0.CR5/kcctl-1.0.0.CR5-osx-aarch_64.tar.gz"
